@@ -3,3 +3,9 @@
     word-spacing: 1px;
     font-size: 15px;
 }
+a:hover {
+    color: blueviolet;    
+}
+a:visited {
+    color: brown;
+}
